@@ -100,4 +100,4 @@ Some third-party plugins that we used to build this template. Please check their
 * **AOS**: https://michalsnik.github.io/aos/
 * **Fancybox**: http://fancyapps.com/fancybox/
 * **Slick**: https://kenwheeler.github.io/slick/
-* **SyoTimer**: http://syomochkin.xyz/folio/syotimer/demo.html
+* **SyoTimer**: http://syomochkin.xyz/folio/syotimer/demo.html# small-apps
